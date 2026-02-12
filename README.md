@@ -215,7 +215,7 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 1. **Clone the repository** 
 
     ```bash 
-    git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git 
+    git clone https://github.com/krishkhatik01/awesome-llm-apps.git 
     ```
 
 2. **Navigate to the desired project directory**
